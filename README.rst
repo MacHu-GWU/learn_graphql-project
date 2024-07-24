@@ -50,4 +50,7 @@
 
 Welcome to ``learn_graphql`` Documentation
 ==============================================================================
-Documentation for ``learn_graphql``.
+.. image:: https://learn-graphql.readthedocs.io/en/latest/_static/learn_graphql-logo.png
+    :target: https://learn-graphql.readthedocs.io/en/latest/
+
+My personal note on learning GraphQL.
